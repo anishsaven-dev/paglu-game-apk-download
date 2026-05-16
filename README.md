@@ -1,4 +1,4 @@
-# Paglu Game – Word Chain Challenge
+# Paglu Game
 
 ## About the Game
 Paglu Game is a fun and engaging single-player word challenge designed to test your vocabulary, speed, and quick thinking. In this game, you play against an AI opponent by forming words where each new word must begin with the last letter of the previous word.
