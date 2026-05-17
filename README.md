@@ -28,7 +28,8 @@ Download and install the latest version of Paglu Game:
 4. Allow installation from unknown sources (if prompted)
 5. Launch the game and start playing
 
-## Screenshots / Banner
+## Banner
+[![Visit Paglu Game on PGYER](paglu-game-apk-download.webp)](https://www.pgyer.com/apk/apk/word.chain.game101)
 
 ## App Info
 - Version: 1.1
